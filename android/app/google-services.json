@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "925571851177",
+    "project_id": "reactapp-2b6bf",
+    "storage_bucket": "reactapp-2b6bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925571851177:android:e045ab96f7a5fced6edab8",
+        "android_client_info": {
+          "package_name": "com.gsn.homemanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925571851177-7es2en78077efkqfqk0dn53a0f1ge5hu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-sk7zjBEbzSk3m6jyyccC7e0nrQtEqE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "925571851177-7es2en78077efkqfqk0dn53a0f1ge5hu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
